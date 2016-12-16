@@ -1,0 +1,17 @@
+.c-editor input {
+  background-color: #f5f5f5 !important;
+}
+.cognito .c-forms-form button, 
+.cognito .c-forms-form .c-add-item, 
+.cognito .c-forms-form input[type="button"], 
+.cognito .c-forms-form .c-fileupload-dropzone .c-upload-button {
+	background-color: #005198; 
+	border: 2px solid #93b37b; 
+	border-radius: 0; 
+	font-size: 1.5em; 
+	font-weight: bold;
+}
+.cognito .c-action {
+	float: none; 
+	text-align: center;
+}
